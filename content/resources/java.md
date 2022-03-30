@@ -4,6 +4,7 @@ description: Lab assignment on writing Java applets and GUI programs that genera
   XML.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-297-special-problems-in-architecture-studies-fall-2000/81fb9bd75f1f5c50f8ed0d298b6cfd42_Java.pdf
 file_type: application/pdf
+parent_uid: 12c081c2-81d6-d879-a99b-30dd7884bf48
 resourcetype: Document
 title: 'Lab Three: Writing Java Applets and GUI Programs that Generate XML'
 uid: 81fb9bd7-5f1f-5c50-f8ed-0d298b6cfd42
